@@ -5,5 +5,4 @@ C# Fractal Generator
 * Angle Delta: The angle that new forks are created at
 * Split Depth: This is a recursive algorithm, depth controls how many forks get generated
 
-![Image of Project]
-(http://i.imgur.com/7wTnZzE.png)
+![Image of Project](http://i.imgur.com/7wTnZzE.png)
